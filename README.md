@@ -9,7 +9,7 @@ My favorite project is [AutoBleem](https://github.com/autobleem/AutoBleem), a Pl
 I'm also part of the demoscene family as an Amiga developper (ASM68k and AMOS), i'm from the [Delicious Amigans](https://demozoo.org/groups/90490/) group.
 
 * 🏠 Saint-Etienne, France
-* 🏢 [@webqamdev](https://github.com/webqamdev)
+* 🏢 []()
 * 👔 [LinkedIn](https://www.linkedin.com/in/guillaume-arino-a8a8a8a/)
 * 🌐 [mggk.net](https://mggk.net)
 * 📧 [mggk@protonmail.com](mailto:mggk@protonmail.com)
